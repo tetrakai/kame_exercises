@@ -1,0 +1,11 @@
+Movement
+========
+So far we've been drawing from the center of the canvas, but now it's
+time to move.
+
+By default the pen will draw on the canvas when it is moved, but you can
+lift the pen from the canvas using `pen_up`.
+
+You can lower it to draw again using `pen_down`.
+
+Try moving your triangle to be somewhere else on the canvas.

@@ -1,0 +1,3 @@
+They're multiplying
+===================
+Let's try drawing two triangles, each in a different color!

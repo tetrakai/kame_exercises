@@ -1,0 +1,29 @@
+Basic shapes
+============
+We now know enough to start drawing shapes – have a shot at drawing a
+square.
+
+Now try changing the size of the square.
+
+It would be nice if we could store the side length somehow so that we
+only had to change one thing to change the size of the square, rather
+than four.
+
+We can do this using variables. These are like containers that allow you
+to store one thing in them. We create a container by just setting a
+word to a variable.
+
+For example, to store the value 5 in a variable called forward_amount:
+`forward_amount = 5`
+
+Then later we could then use this variable to make our pen go forward
+by 5:
+`forward(forward_amount)`
+
+Try changing your square to use a variable called side_length for its
+side length. This will mean changing more than one piece of code now,
+but in future you should just be able to change the value of the
+variable.
+
+Be careful – variable names can't have spaces in them and they're case
+sensitive.

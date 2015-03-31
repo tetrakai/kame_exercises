@@ -1,0 +1,13 @@
+Loops
+=====
+In both the triangle and square examples, our code was kind of
+repetitive: we'd go forward a bit, then turn, and repeat.
+
+Rather than repeating ourselves, we can just say that we want to do
+something a number of times. For example,
+`2.times do
+  forward(100)
+  turn_right(20)
+end`
+
+Try converting your triangle code to use a loop instead.

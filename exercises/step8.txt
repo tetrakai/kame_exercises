@@ -1,0 +1,23 @@
+Functions
+=========
+Hm, we still had to repeat ourselves if we wanted to draw two triangles,
+and loops didn't help us much. It would be nice if we could just write
+instructions for drawing a triangle, rather than having to explain how
+to draw a triangle each time.
+
+We can do this by writing a function! Functions are like recipes that
+you reference from other recipes.
+
+If we wanted to write a function to go forward by 10, then turn right by
+90 degrees, we would do it as follows:
+
+def go_forward_and_turn
+  forward(10)
+  turn_right(90)
+end
+
+We could then call this using `go_forward_and_turn`.
+
+Try writing your own function to draw a triangle, then using it for both
+of the triangles. Make sure you put the function definition inside the
+do block!

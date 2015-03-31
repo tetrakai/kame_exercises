@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/tetrakai/kame.git
-  revision: 80d8ef86e8fafd27f2a09baead668ae09339b894
+  revision: 81ec2485402baa20b37c6e19ac1b804a777d97e0
   specs:
     kame (0.5.0)
       gosu

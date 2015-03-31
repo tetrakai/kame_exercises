@@ -1,0 +1,7 @@
+More basic shapes
+=================
+Now let's try drawing an equilateral triangle. These triangles have 60
+degree angles in their corners.
+
+If your triangle ends up looking strange, try calling `show_tip` at a
+corner and think about how far your pen will turn.

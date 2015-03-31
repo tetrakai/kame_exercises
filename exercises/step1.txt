@@ -1,0 +1,16 @@
+Into another dimension
+======================
+Drawing different length lines is boring though, so let's learn to turn.
+
+We can tell the pen to turn right by calling `turn_right(90)`. Just like
+`forward(100)` you give it a number, but this time you're telling the
+pen how many degrees you want it to turn.
+
+Have a go at drawing a corner. You'll need to add a call to `turn_right`
+and then to `forward`. Watch out, calls are case sensitive.
+
+It can be confusing figuring out which way the pen is facing. If you get
+a bit lost, you can call `show_tip` to draw the tip of the pen at that
+point.
+
+Try drawing a set of stairs!

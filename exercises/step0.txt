@@ -1,0 +1,13 @@
+Hi there!
+=========
+Today we'll be learning how to use Kame, a drawing library that lets you
+control a virtual pen.
+
+The get_started.rb file contains instructions that are just like a
+recipe - we start by creating a new pen, and tell it that we want it to
+something for us.
+
+At the moment, our pen is drawing a line that is 50 pixels long.
+
+Can you change the instructions to make it draw on twice as long? What
+about half as long?

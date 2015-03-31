@@ -1,0 +1,9 @@
+No more monochrome
+==================
+So far we've been drawing in black and white, now it's time to add some
+color to our masterpiece.
+
+We can change the pen to be red by calling color(:red).
+
+Change the artwork to be more colourful. Remember to put a colon before
+the color name though!
