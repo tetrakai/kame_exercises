@@ -1,0 +1,17 @@
+GIT
+  remote: https://github.com/tetrakai/kame.git
+  revision: 80d8ef86e8fafd27f2a09baead668ae09339b894
+  specs:
+    kame (0.5.0)
+      gosu
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    gosu (0.8.7.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  kame!
